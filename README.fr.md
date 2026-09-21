@@ -13,18 +13,19 @@ Applications web, expérimentations, intégrations, parfois un outil pour faire 
 
 TypeScript · Claude Code · MCP &nbsp; · &nbsp; [Voir l’interface](https://github.com/elie-laloum/redline#see-it-in-action)
 
-<a href="https://github.com/elie-laloum/framebudget"><img src="assets/project-framebudget.svg" width="100%" alt="FrameBudget — Find the encode worth keeping."></a>
+<a href="https://github.com/elie-laloum/orama"><img src="assets/project-orama.svg" width="100%" alt="Orama — See what your agent actually sends."></a>
 
-**[FrameBudget ↗](https://github.com/elie-laloum/framebudget)** — Comparer les réglages d’encodage avec des mesures de taille, de vitesse et de qualité, puis vérifier le fichier à conserver.
+**[Orama ↗](https://github.com/elie-laloum/orama)** — Voir ce que l’agent envoie réellement : prompts système, outils déclarés, conversations et réponses dans un tableau de bord local.
 
-Python · FFmpeg · VMAF &nbsp; · &nbsp; [Voir la démo](https://github.com/elie-laloum/framebudget#see-it-in-action)
+Rust · React · TypeScript · SQLite &nbsp; · &nbsp; [Voir la démo](https://github.com/elie-laloum/orama#see-it-in-action)
 
-<a href="https://github.com/elie-laloum/queryledger"><img src="assets/project-queryledger.svg" width="100%" alt="QueryLedger — Catch the extra queries before your users do."></a>
+<a href="https://github.com/elie-laloum/tssift"><img src="assets/project-tssift.svg" width="100%" alt="tssift — Find the cause behind the cascade."></a>
 
-**[QueryLedger ↗](https://github.com/elie-laloum/queryledger)** — Détecter un N+1 dans les tests, avec un budget explicite de requêtes et un échec clair quand il est dépassé.
+**[tssift ↗](https://github.com/elie-laloum/tssift)** — Retrouver la cause commune derrière une cascade d’erreurs TypeScript, sans perdre les diagnostics d’origine.
 
-Ruby · Active Record · RSpec &nbsp; · &nbsp; [Voir la démo](https://github.com/elie-laloum/queryledger#see-it-in-action)
+TypeScript · Compiler API · CLI &nbsp; · &nbsp; [Voir la démo](https://github.com/elie-laloum/tssift#see-it-in-action)
+
 
 ---
 
-Également : [TracePatch](https://github.com/elie-laloum/tracepatch) et [BumpLab](https://github.com/elie-laloum/bumplab). [Tous les dépôts →](https://github.com/elie-laloum?tab=repositories)
+Également : [TracePatch](https://github.com/elie-laloum/tracepatch) · [BumpLab](https://github.com/elie-laloum/bumplab) · [FrameBudget](https://github.com/elie-laloum/framebudget) · [QueryLedger](https://github.com/elie-laloum/queryledger).
