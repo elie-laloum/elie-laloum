@@ -1,30 +1,16 @@
-<p align="center"><a href="README.md">English</a> · <strong>Français</strong></p>
+<p align="right"><a href="README.md">English</a></p>
+<img src="assets/hero.svg" width="100%" alt="Elie Laloum — Développeur">
 
-<p align="center"><img src="assets/hero.svg" alt="Elie Laloum — Developer tools. Agent workflows. Measurable results." width="100%"></p>
+Je suis **Elie Laloum**, développeur. Je construis des outils pour le travail quotidien : coordonner des changements entre dépôts, corriger des tests, migrer des dépendances et mesurer les performances.
 
-Je construis des outils open source pour coordonner le travail des agents, vérifier les changements et mesurer les performances.
+## Mes projets
 
-**Français natif · Documentation en anglais et en français.**
+- **[Redline](https://github.com/elie-laloum/redline)** — Coordonner un ticket Jira entre plusieurs dépôts avec Claude Code, du TDD contradictoire et des merge requests GitLab.
+- **[TracePatch](https://github.com/elie-laloum/tracepatch)** — Passer d’un test en échec à un patch vérifié.
+- **[BumpLab](https://github.com/elie-laloum/bumplab)** — Mettre à jour une dépendance et adapter le code qui l’utilise.
+- **[FrameBudget](https://github.com/elie-laloum/framebudget)** — Comparer les compromis taille, vitesse et qualité d’un encodage vidéo.
+- **[QueryLedger](https://github.com/elie-laloum/queryledger)** — Détecter les régressions de requêtes SQL dans les tests Ruby.
 
-## Projet principal
+Les quatre outils complémentaires sont en version initiale 0.1, avec démonstrations exécutables et tests. Les démonstrations agentiques sont déterministes ; la performance des modèles réels reste à évaluer.
 
-### [Redline](https://github.com/elie-laloum/redline)
-
-D’un ticket Jira à des merge requests GitLab coordonnées : cadrage, TDD adversarial entre plusieurs dépôts et mémoire versionnée. Système spécialisé à adapter à son environnement.
-
-[Découvrir Redline](https://github.com/elie-laloum/redline) · [Architecture](https://github.com/elie-laloum/redline/blob/main/docs/architecture.md)
-
-## En développement
-
-Ces projets ont leur spécification publique ; leur première version exécutable reste à construire.
-
-| Projet | Objectif |
-|---|---|
-| [TracePatch](https://github.com/elie-laloum/tracepatch) | Du test en échec au correctif vérifiable. |
-| [BumpLab](https://github.com/elie-laloum/bumplab) | Mettre à jour la dépendance. Adapter le code. |
-| [FrameBudget](https://github.com/elie-laloum/framebudget) | Trouver les réglages adaptés à vos contraintes. |
-| [QueryLedger](https://github.com/elie-laloum/queryledger) | Un budget de requêtes pour chaque endpoint Rails. |
-
-## Contribuer
-
-Les retours et contributions sont les bienvenus en français ou en anglais. Ouvre une issue sur le projet concerné ; chaque dépôt décrit son fonctionnement et son statut.
+J’aime les interfaces simples, l’automatisation utile et les résultats vérifiables.

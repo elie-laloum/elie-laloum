@@ -1,30 +1,44 @@
-<p align="center"><strong>English</strong> · <a href="README.fr.md">Français</a></p>
+<p align="right"><a href="README.fr.md">Français</a></p>
+<img src="assets/hero.svg" width="100%" alt="Elie Laloum — Developer. Systems and workflows.">
 
-<p align="center"><img src="assets/hero.svg" alt="Elie Laloum — Developer tools. Agent workflows. Measurable results." width="100%"></p>
+I’m **Elie Laloum**, a developer building tools for everyday engineering: coordinating changes across repositories, repairing failing tests, handling dependency upgrades and measuring performance.
 
-I build open-source tools for coordinating agent workflows, verifying changes, and measuring performance.
+I like small interfaces, useful automation, and results I can inspect.
 
-**Native French speaker · English and French documentation.**
+[Redline](https://github.com/elie-laloum/redline) · [Agent workflows](#agent-workflows) · [Performance-tools](#performance-tools)
 
-## Featured project
+## The flagship
 
-### [Redline](https://github.com/elie-laloum/redline)
+<a href="https://github.com/elie-laloum/redline"><img src="assets/redline.svg" width="100%" alt="Redline — Challenge first. Build across repositories."></a>
 
-From a Jira ticket to coordinated GitLab merge requests: scoping, adversarial TDD across repositories, and versioned memory. An opinionated working system to adapt to your environment.
+**[Redline ↗](https://github.com/elie-laloum/redline)** coordinates a Jira ticket across repositories with Claude Code agents, adversarial TDD, persistent project memory and GitLab merge requests.
 
-[Explore Redline](https://github.com/elie-laloum/redline) · [Architecture](https://github.com/elie-laloum/redline/blob/main/docs/architecture.md)
+`Challenge the request → plan the change → build & test → review → publish`
 
-## In development
+**TypeScript · Claude Code · MCP · Jira · GitLab**
 
-These projects have public specifications; their first executable releases are still to be built.
+## Agent workflows
 
-| Project | Focus |
-|---|---|
-| [TracePatch](https://github.com/elie-laloum/tracepatch) | From a failing test to a verifiable patch. |
-| [BumpLab](https://github.com/elie-laloum/bumplab) | Upgrade the dependency. Adapt the code. |
-| [FrameBudget](https://github.com/elie-laloum/framebudget) | Find the encode that fits your constraints. |
-| [QueryLedger](https://github.com/elie-laloum/queryledger) | Give every Rails endpoint a query budget. |
+| Tool | Everyday use | Try it |
+| :--- | :--- | :--- |
+| **[TracePatch](https://github.com/elie-laloum/tracepatch)** | Turn a reproduced failure into a focused, tested patch. | [Run the demo](https://github.com/elie-laloum/tracepatch#quick-start) |
+| **[BumpLab](https://github.com/elie-laloum/bumplab)** | Upgrade a dependency and adapt the code without undoing the upgrade. | [Run the demo](https://github.com/elie-laloum/bumplab#quick-start) |
 
-## Contribute
+## Performance tools
 
-Feedback and contributions are welcome in English or French. Open an issue in the relevant project; each repository explains its workflow and current status.
+| Tool | What it measures | Try it |
+| :--- | :--- | :--- |
+| **[FrameBudget](https://github.com/elie-laloum/framebudget)** | Encoding size, speed and visual quality across FFmpeg settings. | [Run the demo](https://github.com/elie-laloum/framebudget#quick-start) |
+| **[QueryLedger](https://github.com/elie-laloum/queryledger)** | SQL query counts against explicit budgets in Ruby tests. | [Run the demo](https://github.com/elie-laloum/queryledger#quick-start) |
+
+<sub>Four early v0.1 tools with runnable demos and automated tests. Agent demos use deterministic fixtures; live-model performance is not yet evaluated.</sub>
+
+## How I build
+
+- Start with a concrete developer problem and a small working path.
+- Keep changes reviewable and the evidence close to the code.
+- Measure the result before making the claim.
+
+**Working stack:** TypeScript / JavaScript · Python · Ruby · Git · CI · APIs
+
+<sub>Code lives in the repositories. Usage, boundaries and contribution notes live in their READMEs.</sub>
