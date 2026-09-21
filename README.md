@@ -25,7 +25,18 @@ Rust · React · TypeScript · SQLite &nbsp; · &nbsp; [Watch the demo](https://
 
 TypeScript · Compiler API · CLI &nbsp; · &nbsp; [Watch the demo](https://github.com/elie-laloum/tssift#see-it-in-action)
 
+<a href="https://github.com/elie-laloum/framebudget"><img src="assets/project-framebudget.svg" width="100%" alt="FrameBudget"></a>
+
+**[FrameBudget ↗](https://github.com/elie-laloum/framebudget)** — Compare encodes on sampled scenes, choose a measured size–quality tradeoff, and verify the result.
+
+Python · FFmpeg · VMAF &nbsp; · &nbsp; [Watch the demo](https://github.com/elie-laloum/framebudget#see-it-in-action)
+
+<a href="https://github.com/elie-laloum/tracepatch"><img src="assets/project-tracepatch.svg" width="100%" alt="TracePatch"></a>
+
+**[TracePatch ↗](https://github.com/elie-laloum/tracepatch)** — Turn a reproduced test failure into a focused patch backed by the checks that actually ran.
+
+TypeScript · Node.js · Git &nbsp; · &nbsp; [Watch the demo](https://github.com/elie-laloum/tracepatch#see-it-in-action)
 
 ---
 
-Also building [TracePatch](https://github.com/elie-laloum/tracepatch) · [BumpLab](https://github.com/elie-laloum/bumplab) · [FrameBudget](https://github.com/elie-laloum/framebudget) · [QueryLedger](https://github.com/elie-laloum/queryledger).
+Also building [BumpLab](https://github.com/elie-laloum/bumplab) · [QueryLedger](https://github.com/elie-laloum/queryledger).

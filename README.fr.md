@@ -25,7 +25,18 @@ Rust · React · TypeScript · SQLite &nbsp; · &nbsp; [Voir la démo](https://g
 
 TypeScript · Compiler API · CLI &nbsp; · &nbsp; [Voir la démo](https://github.com/elie-laloum/tssift#see-it-in-action)
 
+<a href="https://github.com/elie-laloum/framebudget"><img src="assets/project-framebudget.svg" width="100%" alt="FrameBudget"></a>
+
+**[FrameBudget ↗](https://github.com/elie-laloum/framebudget)** — Comparer les réglages d’encodage sur des scènes échantillonnées, choisir le compromis taille–qualité et vérifier le résultat.
+
+Python · FFmpeg · VMAF &nbsp; · &nbsp; [Voir la démo](https://github.com/elie-laloum/framebudget#see-it-in-action)
+
+<a href="https://github.com/elie-laloum/tracepatch"><img src="assets/project-tracepatch.svg" width="100%" alt="TracePatch"></a>
+
+**[TracePatch ↗](https://github.com/elie-laloum/tracepatch)** — Passer d’un test qui échoue à un correctif ciblé, accompagné des vérifications réellement exécutées.
+
+TypeScript · Node.js · Git &nbsp; · &nbsp; [Voir la démo](https://github.com/elie-laloum/tracepatch#see-it-in-action)
 
 ---
 
-Également : [TracePatch](https://github.com/elie-laloum/tracepatch) · [BumpLab](https://github.com/elie-laloum/bumplab) · [FrameBudget](https://github.com/elie-laloum/framebudget) · [QueryLedger](https://github.com/elie-laloum/queryledger).
+Également : [BumpLab](https://github.com/elie-laloum/bumplab) · [QueryLedger](https://github.com/elie-laloum/queryledger).
