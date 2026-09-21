@@ -1,44 +1,30 @@
 <p align="right"><a href="README.fr.md">Français</a></p>
-<img src="assets/hero.svg" width="100%" alt="Elie Laloum — Developer. Systems and workflows.">
+<img src="assets/hero.svg" width="100%" alt="Elie Laloum — Fullstack developer">
 
-I’m **Elie Laloum**, a developer building tools for everyday engineering: coordinating changes across repositories, repairing failing tests, handling dependency upgrades and measuring performance.
+I’m **Elie Laloum**, a fullstack developer. I enjoy building things end to end: the interface people use, the services behind it, and the details that make everything work together.
 
-I like small interfaces, useful automation, and results I can inspect.
+Web apps, experiments, integrations, and the occasional tool that makes a recurring problem disappear. I follow interesting problems wherever they lead.
 
-[Redline](https://github.com/elie-laloum/redline) · [Agent workflows](#agent-workflows) · [Performance-tools](#performance-tools)
+## Selected projects
 
-## The flagship
+<a href="https://github.com/elie-laloum/redline"><img src="assets/redline.svg" width="100%" alt="Redline — One ticket. Changes that work together."></a>
 
-<a href="https://github.com/elie-laloum/redline"><img src="assets/redline.svg" width="100%" alt="Redline — Challenge first. Build across repositories."></a>
+**[Redline ↗](https://github.com/elie-laloum/redline)** — Turn a Jira ticket into coordinated changes across repositories. Claude Code agents challenge the plan, build in dependency order, and prepare GitLab merge requests for review.
 
-**[Redline ↗](https://github.com/elie-laloum/redline)** coordinates a Jira ticket across repositories with Claude Code agents, adversarial TDD, persistent project memory and GitLab merge requests.
+TypeScript · Claude Code · MCP &nbsp; · &nbsp; [Watch the interface](https://github.com/elie-laloum/redline#see-it-in-action)
 
-`Challenge the request → plan the change → build & test → review → publish`
+<a href="https://github.com/elie-laloum/framebudget"><img src="assets/framebudget.svg" width="100%" alt="FrameBudget — Find the encode worth keeping."></a>
 
-**TypeScript · Claude Code · MCP · Jira · GitLab**
+**[FrameBudget ↗](https://github.com/elie-laloum/framebudget)** — Stop guessing your encoding settings. Compare size, speed and visual quality, then verify the file you keep.
 
-## Agent workflows
+Python · FFmpeg · VMAF &nbsp; · &nbsp; [Watch the demo](https://github.com/elie-laloum/framebudget#see-it-in-action)
 
-| Tool | Everyday use | Try it |
-| :--- | :--- | :--- |
-| **[TracePatch](https://github.com/elie-laloum/tracepatch)** | Turn a reproduced failure into a focused, tested patch. | [Run the demo](https://github.com/elie-laloum/tracepatch#quick-start) |
-| **[BumpLab](https://github.com/elie-laloum/bumplab)** | Upgrade a dependency and adapt the code without undoing the upgrade. | [Run the demo](https://github.com/elie-laloum/bumplab#quick-start) |
+<a href="https://github.com/elie-laloum/queryledger"><img src="assets/queryledger.svg" width="100%" alt="QueryLedger — Catch the extra queries before your users do."></a>
 
-## Performance tools
+**[QueryLedger ↗](https://github.com/elie-laloum/queryledger)** — Catch an N+1 where you can still fix it cheaply: in your tests. Give database queries an explicit budget and make regressions visible.
 
-| Tool | What it measures | Try it |
-| :--- | :--- | :--- |
-| **[FrameBudget](https://github.com/elie-laloum/framebudget)** | Encoding size, speed and visual quality across FFmpeg settings. | [Run the demo](https://github.com/elie-laloum/framebudget#quick-start) |
-| **[QueryLedger](https://github.com/elie-laloum/queryledger)** | SQL query counts against explicit budgets in Ruby tests. | [Run the demo](https://github.com/elie-laloum/queryledger#quick-start) |
+Ruby · Active Record · RSpec &nbsp; · &nbsp; [Watch the demo](https://github.com/elie-laloum/queryledger#see-it-in-action)
 
-<sub>Four early v0.1 tools with runnable demos and automated tests. Agent demos use deterministic fixtures; live-model performance is not yet evaluated.</sub>
+---
 
-## How I build
-
-- Start with a concrete developer problem and a small working path.
-- Keep changes reviewable and the evidence close to the code.
-- Measure the result before making the claim.
-
-**Working stack:** TypeScript / JavaScript · Python · Ruby · Git · CI · APIs
-
-<sub>Code lives in the repositories. Usage, boundaries and contribution notes live in their READMEs.</sub>
+Also building [TracePatch](https://github.com/elie-laloum/tracepatch) and [BumpLab](https://github.com/elie-laloum/bumplab). [Explore all repositories →](https://github.com/elie-laloum?tab=repositories)

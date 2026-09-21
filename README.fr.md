@@ -1,16 +1,30 @@
 <p align="right"><a href="README.md">English</a></p>
-<img src="assets/hero.svg" width="100%" alt="Elie Laloum — Développeur">
+<img src="assets/hero.svg" width="100%" alt="Elie Laloum — Développeur fullstack">
 
-Je suis **Elie Laloum**, développeur. Je construis des outils pour le travail quotidien : coordonner des changements entre dépôts, corriger des tests, migrer des dépendances et mesurer les performances.
+Je suis **Elie Laloum**, développeur fullstack. J’aime construire de bout en bout : l’interface que l’on utilise, les services derrière et les détails qui font tenir l’ensemble.
 
-## Mes projets
+Applications web, expérimentations, intégrations, parfois un outil pour faire disparaître un problème récurrent. Je suis les sujets qui m’intéressent, sans m’enfermer dans une spécialité.
 
-- **[Redline](https://github.com/elie-laloum/redline)** — Coordonner un ticket Jira entre plusieurs dépôts avec Claude Code, du TDD contradictoire et des merge requests GitLab.
-- **[TracePatch](https://github.com/elie-laloum/tracepatch)** — Passer d’un test en échec à un patch vérifié.
-- **[BumpLab](https://github.com/elie-laloum/bumplab)** — Mettre à jour une dépendance et adapter le code qui l’utilise.
-- **[FrameBudget](https://github.com/elie-laloum/framebudget)** — Comparer les compromis taille, vitesse et qualité d’un encodage vidéo.
-- **[QueryLedger](https://github.com/elie-laloum/queryledger)** — Détecter les régressions de requêtes SQL dans les tests Ruby.
+## Quelques projets
 
-Les quatre outils complémentaires sont en version initiale 0.1, avec démonstrations exécutables et tests. Les démonstrations agentiques sont déterministes ; la performance des modèles réels reste à évaluer.
+<a href="https://github.com/elie-laloum/redline"><img src="assets/redline.svg" width="100%" alt="Redline — One ticket. Changes that work together."></a>
 
-J’aime les interfaces simples, l’automatisation utile et les résultats vérifiables.
+**[Redline ↗](https://github.com/elie-laloum/redline)** — Transformer un ticket Jira en changements coordonnés entre plusieurs dépôts. Des agents Claude Code challengent le plan, développent dans l’ordre des dépendances et préparent les merge requests GitLab.
+
+TypeScript · Claude Code · MCP &nbsp; · &nbsp; [Voir l’interface](https://github.com/elie-laloum/redline#see-it-in-action)
+
+<a href="https://github.com/elie-laloum/framebudget"><img src="assets/framebudget.svg" width="100%" alt="FrameBudget — Find the encode worth keeping."></a>
+
+**[FrameBudget ↗](https://github.com/elie-laloum/framebudget)** — Comparer les réglages d’encodage avec des mesures de taille, de vitesse et de qualité, puis vérifier le fichier à conserver.
+
+Python · FFmpeg · VMAF &nbsp; · &nbsp; [Voir la démo](https://github.com/elie-laloum/framebudget#see-it-in-action)
+
+<a href="https://github.com/elie-laloum/queryledger"><img src="assets/queryledger.svg" width="100%" alt="QueryLedger — Catch the extra queries before your users do."></a>
+
+**[QueryLedger ↗](https://github.com/elie-laloum/queryledger)** — Détecter un N+1 dans les tests, avec un budget explicite de requêtes et un échec clair quand il est dépassé.
+
+Ruby · Active Record · RSpec &nbsp; · &nbsp; [Voir la démo](https://github.com/elie-laloum/queryledger#see-it-in-action)
+
+---
+
+Également : [TracePatch](https://github.com/elie-laloum/tracepatch) et [BumpLab](https://github.com/elie-laloum/bumplab). [Tous les dépôts →](https://github.com/elie-laloum?tab=repositories)
