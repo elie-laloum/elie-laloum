@@ -7,7 +7,7 @@ Applications web, expérimentations, intégrations, parfois un outil pour faire 
 
 ## Quelques projets
 
-<a href="https://github.com/elie-laloum/redline"><img src="assets/project-redline-v2.png" width="100%" alt="Redline — One ticket. Changes that work together."></a>
+<a href="https://github.com/elie-laloum/redline"><img src="assets/project-redline-v3.png" width="100%" alt="Redline — One ticket. Changes that work together."></a>
 
 **[Redline ↗](https://github.com/elie-laloum/redline)** — Transformer un ticket Jira en changements coordonnés entre plusieurs dépôts. Des agents Claude Code challengent le plan, développent dans l’ordre des dépendances et préparent les merge requests GitLab.
 
@@ -25,7 +25,7 @@ Rust · React · TypeScript · SQLite &nbsp; · &nbsp; [Voir la démo](https://g
 
 TypeScript · Compiler API · CLI &nbsp; · &nbsp; [Voir la démo](https://github.com/elie-laloum/tssift#see-it-in-action)
 
-<a href="https://github.com/elie-laloum/framebudget"><img src="assets/project-framebudget-v2.png" width="100%" alt="FrameBudget"></a>
+<a href="https://github.com/elie-laloum/framebudget"><img src="assets/project-framebudget-v3.png" width="100%" alt="FrameBudget"></a>
 
 **[FrameBudget ↗](https://github.com/elie-laloum/framebudget)** — Comparer les réglages d’encodage sur des scènes échantillonnées, choisir le compromis taille–qualité et vérifier le résultat.
 
