@@ -1,42 +1,24 @@
 <p align="right"><a href="README.fr.md">Français</a></p>
 <img src="assets/cover.svg" width="100%" alt="Elie Laloum — Fullstack developer">
 
-I’m **Elie Laloum**, a fullstack developer. I enjoy building things end to end: the interface people use, the services behind it, and the details that make everything work together.
+I’m **Elie Laloum**, a fullstack developer. I build software end to end, from the interface to the services behind it.
 
-Web apps, experiments, integrations, and the occasional tool that makes a recurring problem disappear. I follow interesting problems wherever they lead.
+## Building Outpost
 
-## Selected projects
+<p align="center">
+  <a href="https://elie-laloum.github.io/outpost/">
+    <img src="https://raw.githubusercontent.com/elie-laloum/outpost/main/docs/src/assets/outpost-logo.png" width="160" alt="Outpost">
+  </a>
+</p>
 
-<a href="https://github.com/elie-laloum/redline"><img src="assets/project-redline-v5.png" width="100%" alt="Redline — One ticket. Changes that work together."></a>
+### Coding agents. Isolated workspaces. Workflows in TypeScript.
 
-**[Redline ↗](https://github.com/elie-laloum/redline)** — Turn a Jira ticket into coordinated changes across repositories. Claude Code agents challenge the plan, build in dependency order, and prepare GitLab merge requests for review.
+**[Outpost](https://github.com/elie-laloum/outpost)** is a TypeScript library and CLI for running coding agents in sandboxes and composing their work. Start with a single task, then connect parallel work, verification loops and human decisions.
 
-TypeScript · Claude Code · MCP &nbsp; · &nbsp; [Watch the interface](https://github.com/elie-laloum/redline#see-it-in-action)
+- **Choose your agent and environment.** Combine coding agents with local containers or cloud sandboxes.
+- **Keep changes reviewable.** Work in dedicated Git worktrees and collect answers, commits and usage.
+- **Make the workflow yours.** Connect typed tasks, set budgets and pause for human review.
 
-<a href="https://github.com/elie-laloum/orama"><img src="assets/project-orama-v5.png" width="100%" alt="Orama — See what your agent actually sends."></a>
+**[Explore the docs ↗](https://elie-laloum.github.io/outpost/)** · [GitHub](https://github.com/elie-laloum/outpost) · [GitLab](https://gitlab.elielaloum.com/elielaloum/outpost) · [npm](https://www.npmjs.com/package/@elie-laloum/outpost)
 
-**[Orama ↗](https://github.com/elie-laloum/orama)** — See what a coding agent actually sends: system prompts, tool declarations, conversations and responses in a local dashboard.
-
-Rust · React · TypeScript · SQLite &nbsp; · &nbsp; [Watch the demo](https://github.com/elie-laloum/orama#see-it-in-action)
-
-<a href="https://github.com/elie-laloum/tssift"><img src="assets/project-tssift-v5.png" width="100%" alt="tssift — Find the cause behind the cascade."></a>
-
-**[tssift ↗](https://github.com/elie-laloum/tssift)** — Find the shared cause behind a cascade of TypeScript errors, while keeping the original diagnostics available.
-
-TypeScript · Compiler API · CLI &nbsp; · &nbsp; [Watch the demo](https://github.com/elie-laloum/tssift#see-it-in-action)
-
-<a href="https://github.com/elie-laloum/framebudget"><img src="assets/project-framebudget-v5.png" width="100%" alt="FrameBudget"></a>
-
-**[FrameBudget ↗](https://github.com/elie-laloum/framebudget)** — Compare encodes on sampled scenes, choose a measured size–quality tradeoff, and verify the result.
-
-Python · FFmpeg · VMAF &nbsp; · &nbsp; [Watch the demo](https://github.com/elie-laloum/framebudget#see-it-in-action)
-
-<a href="https://github.com/elie-laloum/tracepatch"><img src="assets/project-tracepatch-v5.png" width="100%" alt="TracePatch"></a>
-
-**[TracePatch ↗](https://github.com/elie-laloum/tracepatch)** — Turn a reproduced test failure into a focused patch backed by the checks that actually ran.
-
-TypeScript · Node.js · Git &nbsp; · &nbsp; [Watch the demo](https://github.com/elie-laloum/tracepatch#see-it-in-action)
-
----
-
-Also building [BumpLab](https://github.com/elie-laloum/bumplab) · [QueryLedger](https://github.com/elie-laloum/queryledger).
+TypeScript · Node.js · MIT
