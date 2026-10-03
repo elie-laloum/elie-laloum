@@ -5,7 +5,7 @@ Je suis **Elie Laloum**, développeur fullstack. Je construis des logiciels de b
 
 ## Je développe Outpost
 
-### Des agents de code. Des environnements isolés. Des workflows en TypeScript.
+<a href="https://github.com/elie-laloum/outpost"><img src="assets/project-outpost-indigo.png" width="100%" alt="Outpost — Agents de code et workflows en TypeScript"></a>
 
 **[Outpost](https://github.com/elie-laloum/outpost)** est une bibliothèque TypeScript et un outil en ligne de commande pour exécuter des agents de code dans des environnements isolés et coordonner leur travail. Commencez par une tâche, puis ajoutez des tâches en parallèle, des boucles de vérification et des décisions humaines.
 
