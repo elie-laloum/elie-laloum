@@ -5,7 +5,7 @@ I’m **Elie Laloum**, a fullstack developer. I build software end to end, from 
 
 ## Building Outpost
 
-### Coding agents. Isolated workspaces. Workflows in TypeScript.
+<a href="https://github.com/elie-laloum/outpost"><img src="assets/project-outpost-indigo.png" width="100%" alt="Outpost — Coding agents. Workflows in TypeScript."></a>
 
 **[Outpost](https://github.com/elie-laloum/outpost)** is a TypeScript library and CLI for running coding agents in sandboxes and composing their work. Start with a single task, then connect parallel work, verification loops and human decisions.
 
